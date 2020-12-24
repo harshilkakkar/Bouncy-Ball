@@ -1,2 +1,2 @@
-# Bouncy-Ball
-This is a bouncy ball on a ground platform.
+# p5.play-boilerplate
+Boiler plate for p5.play
